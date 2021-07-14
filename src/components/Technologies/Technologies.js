@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiCss3, DiFirebase, DiMongodb, DiReact, DiZend } from 'react-icons/di';
+import { DiCss3, DiFirebase, DiMongodb, DiNodejs, DiReact, DiWordpress, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -9,8 +9,7 @@ const Technologies = () => (
 		<br/>
     <SectionTitle>Technologies |</SectionTitle>
     <SectionText>
-      I am a JavaScript addict, and I am continuously striving to go deeper into
-      the language, and it's ecosystem.
+      I am always looking for new opportunities. Whether Working with PHP & WordPress, or Front end JavaScript libraries, or Frameworks.
     </SectionText>
     <List>
       <ListItem>
@@ -24,12 +23,13 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiMongodb size="3rem" />
+        <DiWordpress size="3rem" />
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experienced With <br />
-            Node.Js & Mongo DB
+            Php & WordPress, <br/>
+						Node, Express
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -39,7 +39,7 @@ const Technologies = () => (
           <ListTitle>Ui/Ux</ListTitle>
           <ListParagraph>
             Experienced With <br />
-            Css Tailwind Material-UI
+            Css Tailwind Material-UI Bootstrap
           </ListParagraph>
         </ListContainer>
       </ListItem>

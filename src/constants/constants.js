@@ -1,9 +1,19 @@
 export const projects = [
   {
+    title: "Logo Agency Landing Page",
+    description:
+      "A Web Agency Landing Page with Bootstrap, custom CSS, and Smooth Scroll Js",
+    image: "/images/agency-c.png",
+    tags: ["HTML", "CSS", "Bootstrap"],
+    source: "https://landinglogoagency.netlify.app/",
+    visit: "https://github.com/Sean-Black/agency-landing",
+    id: 2,
+  },
+  {
     title: "COVID-19 Tracker",
     description:
       "A COVID-19 Tracker Application built with React, React hooks, Chart Js. and axios. For styling I used the Material UI library to give it a minimal yet clean modern feel.",
-    image:  "./images/covid.png",
+    image: "./images/covid.png",
     tags: ["React", "Material-UI", "Chart-Js", "Node"],
     source: "https://github.com/Sean-Black/Tracker",
     visit: "https://covid19trackapp.netlify.app/",
@@ -14,21 +24,12 @@ export const projects = [
     description:
       "A Who Wants To be a Millionaire Clone built for desktop, and tablet. Made With Custom CSS. React Hooks, and Sounds Js. A Simple Project That Utilises The Functionality of React Hooks.",
     image: "/images/bg-mill.jpg",
-    tags: ["React", "JavaScript", "Custom-Css"],
-    source: "https://github.com/Sean-Black/millionaire-app",
-    visit: "https://millyunaireapp.netlify.app/",
+    tags: ["React", "JavaScript", "Sounds Js", "Custom-Css"],
+    source: "https://millyunaireapp.netlify.app/",
+    visit: "https://github.com/Sean-Black/millionaire-app",
     id: 1,
   },
-  {
-    title: "WebRTC App",
-    description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-    image: "/images/3.jpg",
-    tags: ["React", "WebRTC"],
-    source: "https://google.com",
-    visit: "https://google.com",
-    id: 2,
-  },
+
   {
     title: "Unichat",
     description:
@@ -42,9 +43,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2017, text: 'Started learning HTML, and CSS', },
+  { year: 2018, text: 'Started learning JavaScript', },
+  { year: 2019, text: 'Started learning PHP, MySql, and WordPress', },
+  { year: 2020, text: 'Started Learning React, and more of the JavaScript ecosystem', },
+  { year: 2021, text: 'Continuing to learn, and improve', },
 ];
