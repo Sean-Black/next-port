@@ -31,11 +31,11 @@ export const projects = [
   },
 
   {
-    title: "Unichat",
+    title: "Wp & Me",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: "/images/4.jpg",
-    tags: ["React", "ChatEngine", "Firebase"],
+      "A WordPress Website Frontend Which I am Currently in the process of developing the backend for"
+    image: "/images/wp-me-img.png",
+    tags: ["WordPress", "Custom Css", "MySql"],
     source: "https://google.com",
     visit: "https://google.com",
     id: 3,
