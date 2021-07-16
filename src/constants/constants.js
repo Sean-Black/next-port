@@ -32,8 +32,9 @@ export const projects = [
 
   {
     title: "Wp & Me",
+
     description:
-      "A WordPress Website Frontend Which I am Currently in the process of developing the backend for"
+      "A WordPress Website Frontend Whic I hand coded using HTML, and Custom CSS. I am Currently building the WordPress backend for this project.",
     image: "/images/wp-me-img.png",
     tags: ["WordPress", "Custom Css", "MySql"],
     source: "https://google.com",
