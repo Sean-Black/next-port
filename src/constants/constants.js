@@ -31,14 +31,14 @@ export const projects = [
   },
 
   {
-    title: "Wp & Me",
+    title: "Xypo Educational Website Landing Page",
 
     description:
-      "A WordPress Website Frontend Whic I hand coded using HTML, and Custom CSS. I am Currently building the WordPress backend for this project.",
-    image: "/images/wp-me-img.png",
-    tags: ["WordPress", "Custom Css", "MySql"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "An educational website coded from scratch using HTML, Custom CSS, and Vanilla JavaScript",
+    image: "/images/xypo-land.png",
+    tags: ["HTML", "Custom Css", "JavaScript"],
+    source: "https://github.com/Sean-Black/agency-course-site",
+    visit: "https://xypocourselandingpage.netlify.app/",
     id: 3,
   },
 ];
