@@ -37,8 +37,8 @@ export const projects = [
       "An educational website coded from scratch using HTML, Custom CSS, and Vanilla JavaScript",
     image: "/images/xypo-land.png",
     tags: ["HTML", "Custom Css", "JavaScript"],
-    source: "https://github.com/Sean-Black/agency-course-site",
-    visit: "https://xypocourselandingpage.netlify.app/",
+    source: "https://xypocourselandingpage.netlify.app/",
+    visit: "https://github.com/Sean-Black/agency-course-site",
     id: 3,
   },
 ];
