@@ -15,8 +15,8 @@ export const projects = [
       "A COVID-19 Tracker Application built with React, React hooks, Chart Js. and axios. For styling I used the Material UI library to give it a minimal yet clean modern feel.",
     image: "./images/covid.png",
     tags: ["React", "Material-UI", "Chart-Js", "Node"],
-    source: "https://github.com/Sean-Black/Tracker",
-    visit: "https://covid19trackapp.netlify.app/",
+    source: "https://covid19trackapp.netlify.app/",
+    visit: "https://github.com/Sean-Black/Tracker",
     id: 0,
   },
   {
@@ -39,6 +39,17 @@ export const projects = [
     tags: ["HTML", "Custom Css", "JavaScript"],
     source: "https://xypocourselandingpage.netlify.app/",
     visit: "https://github.com/Sean-Black/agency-course-site",
+    id: 3,
+  },
+  {
+    title: "iTunes Search App",
+
+    description:
+      "An iTunes Search App, Utilising the Fetch API With Custom CSS",
+    image: "/images/i-tunze.png",
+    tags: ["HTML", "Custom Css", "JavaScript"],
+    source: "https://itunessearch.netlify.app/",
+    visit: "https://github.com/Sean-Black/iTunes-app",
     id: 3,
   },
 ];
