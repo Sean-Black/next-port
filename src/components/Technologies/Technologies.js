@@ -9,7 +9,7 @@ const Technologies = () => (
 		<br/>
     <SectionTitle>Technologies |</SectionTitle>
     <SectionText>
-      I am always looking for new opportunities. Whether Working with PHP & WordPress, or Front end JavaScript libraries, or Frameworks.
+      I am always looking for new opportunities, remote, or within an office based enviroment.
     </SectionText>
     <List>
       <ListItem>
@@ -23,12 +23,12 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiWordpress size="3rem" />
+        <DiNodejs size="3rem" />
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experienced With <br />
-            Php & WordPress, <br/>
+            Node Express
 						Node, Express
           </ListParagraph>
         </ListContainer>

@@ -62,7 +62,8 @@ const Timeline = () => {
       <SectionTitle>About Me |</SectionTitle>
       <SectionText>
         Hi, my name is Sean, and I am a Web Developer From Essex UK.
-        <br /> I mainly work with JavaScript, and PHP, particularly React Js, and WordPress.
+        <br /> I mainly work with JavaScript, particularly React Js, and Node Js.
+								I am currently learning Next Js, and I am building this Portfolio site with it.<br/>
         <br /> The web is ever evolving, and I am constantly trying to integrate
         new technologies, and branches of the JavaScript ecosystem into my
         workflows.
